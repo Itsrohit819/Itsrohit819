@@ -49,8 +49,9 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Itsrohit819&theme=react-dark&area=true" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=Itsrohit819&theme=react-dark&area=true" />
 </p>
+
 
 ---
 
