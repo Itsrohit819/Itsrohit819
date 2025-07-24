@@ -13,7 +13,7 @@
 
 ### 🧠 Ongoing Projects
 
-- 🧑‍🏫 **CodeMentor** — Smart Codeforces weakness recommender (CP + Backend + ML ready)  
+- 🧑‍🏫 **CF-Recommender** — Smart Codeforces analyzer and Prolem suggestion (CP + Backend + ML ready)  
 - 💧 **Khetify** — Smart AgriTech startup (IoT + Water Mgmt + Weather + AI)  
 - 🧠 **Smart Summarizer** — LLM-ready, client-side text summarizer with cloud features  
 - 🅿️ **Vehicle Parking App** — Flask full-stack app for college project
@@ -31,9 +31,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit819&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itsrohit819&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohit819&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Itsrohit819&theme=radical" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit819&theme=gruvbox&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Itsrohit819&theme=gruvbox&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohit819&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Itsrohit819&theme=react-dark&area=true" />
 </p>
 
 ---
@@ -66,9 +66,9 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:rohitsingh@example.com"><img src="https://img.shields.io/badge/Email-rohitsingh@example.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Profile-blueviolet?style=for-the-badge&logo=codeforces"></a>
+  <a href="mailto:singhrohitckt819@gmail.com"><img src="https://img.shields.io/badge/Email-singhrohitckt819@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/rohitsingh-/"><img src="https://img.shields.io/badge/LinkedIn-Visit-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://codeforces.com/profile/defender087"><img src="https://img.shields.io/badge/Codeforces-Profile-blueviolet?style=for-the-badge&logo=codeforces"></a>
 </p>
 
 ---
